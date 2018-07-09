@@ -1,8 +1,11 @@
-import
+import tensor as t
 
 
 
 for in 
 
 
-while 
+while is in 
+
+print('hello') 
+  end
