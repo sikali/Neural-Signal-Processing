@@ -16,7 +16,9 @@ This is a simulation of an Event Related Potential with a stimulus flash at  ~ 1
   File firsttrialplot.py
       PLOTS and shows the Voltage of the First Trial 
       
-      
+  File averageTrials.py
+  
+      Plots the average of all 20 trials
       
    File ttest.py
       Performs a t-test and finding whether the ERP is statistically significant at the first time point
