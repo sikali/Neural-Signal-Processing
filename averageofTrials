@@ -1,0 +1,6 @@
+fig, ax = plt.subplots()
+ax.plot(t, df.mean(axis=0))
+ax.set_xlabel('Time (s)')
+ax.set_ylabel(r'Voltage ($\mu$V)')
+ax.set_title("Average of 20 trials")
+plt.show()
